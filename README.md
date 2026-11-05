@@ -1,10 +1,14 @@
-# Welcome in my github page, I'm Maxime 👋
+<div align="center">
+
+# Welcome in my github page, I'm Sauralt 👋
 
 Computer science student currently focused on software development and understanding web application security mechanisms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-garsault/)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maxime.garsault@gmail.com)
+![Discord](https://img.shields.io/badge/Sauralt-5865F2?style=flat&logo=discord&logoColor=white)
 
+</div>
 ---
 
 ## 🧰 Stack & tools
