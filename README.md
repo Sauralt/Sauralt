@@ -9,7 +9,6 @@
 ![Discord](https://img.shields.io/badge/Sauralt-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
----
 
 <div align="center">
   
