@@ -11,6 +11,8 @@
 </div>
 ---
 
+<div align="center">
+  
 ## 🧰 Stack & tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,6 +20,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
 
 ## 🎯 Interests
 
@@ -27,15 +36,20 @@
 - Data sciences (python)
 
 ## 📌 Projects
+### Web
 
 - **[Obelisk](https://github.com/xHemera/obelisk)** — A full-stack web-based turn-based PvP RPG simulator with a dark fantasy theme. Assemble a team of 3 heroes, queue for battle, and fight other players in real-time tactical combat.
 - **[WebServ](https://github.com/Sauralt/WebServ)** — WebServ is a system programming project from the 42 curriculum that consists of creating a simple HTTP server in C++.
 - **[Darkly](https://github.com/Sauralt/Darkly)** — This project is an introduction to cyber security in the field of the Web Version: 6.0.
 
+### Data
+
+- **[Python piscines](https://github.com/Sauralt/python-piscine-data-science)**
+
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauralt&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauralt&layout=compact)
 
 ---
 
