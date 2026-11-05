@@ -1,8 +1,9 @@
 <div align="center">
 
-# Welcome in my github page, I'm Sauralt 👋
+# Welcome in my github page
+# I'm Sauralt 👋
 
-## Computer science student currently focused on software development and understanding web application security mechanisms.
+## Computer science student currently focused on software development and web application.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-garsault/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxime.garsault@gmail.com)
