@@ -2,7 +2,7 @@
 
 Computer science student currently focused on software development and understanding web application security mechanisms.
 
-[![LinkedIn](www.linkedin.com/in/maxime-garsault)
+[![www.linkedin.com/in/maxime-garsault](https://www.linkedin.com/in/maxime-garsault/)
 [![Email](maxime.garsault@gmail.com)
 
 ---
