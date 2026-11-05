@@ -3,7 +3,7 @@
 Computer science student currently focused on software development and understanding web application security mechanisms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-garsault/)
-[![Discord](https://img.shields.io/badge/Discord-sauralt-5865F2?style=flat&logo=discord&logoColor=white)]
+[![Discord]([https://img.shields.io/badge/Discord-sauralt-5865F2?style=flat&logo=discord&logoColor=white](https://img.shields.io/badge/sauralt-5865F2?style=flat&logo=discord&logoColor=white))]
 
 ---
 
@@ -24,8 +24,8 @@ Computer science student currently focused on software development and understan
 
 ## 📌 Projects
 
-- **[Obelisk](https://github.com/xHemera/obelisk)** — short description of what it does.
-- **[WebServ](https://github.com/Sauralt/WebServ)** — short description of what it does.
+- **[Obelisk](https://github.com/xHemera/obelisk)** — A full-stack web-based turn-based PvP RPG simulator with a dark fantasy theme. Assemble a team of 3 heroes, queue for battle, and fight other players in real-time tactical combat.
+- **[WebServ](https://github.com/Sauralt/WebServ)** — webserv is a system programming project from the 42 curriculum that consists of creating a simple HTTP server in C++.
 
 ## 📊 GitHub stats
 
