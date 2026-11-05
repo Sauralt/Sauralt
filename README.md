@@ -3,7 +3,7 @@
 Computer science student currently focused on software development and understanding web application security mechanisms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-garsault/)
-[![Discord](https://img.shields.io/badge/Discord-sauralt-5865F2?style=flat&logo=discord&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-sauralt-5865F2?style=flat&logo=discord&logoColor=white)
 
 ---
 
@@ -24,8 +24,8 @@ Computer science student currently focused on software development and understan
 
 ## 📌 Projects
 
-- **[Project name](https://github.com/YOUR_USERNAME/project-name)** — short description of what it does.
-- **[Project name 2](https://github.com/YOUR_USERNAME/project-name-2)** — short description of what it does.
+- **[Obelisk](https://github.com/xHemera/obelisk)** — short description of what it does.
+- **[WebServ](https://github.com/Sauralt/WebServ)** — short description of what it does.
 
 ## 📊 GitHub stats
 
