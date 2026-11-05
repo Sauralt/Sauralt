@@ -1,7 +1,6 @@
 <div align="center">
 
-# Welcome in my github page
-# I'm Sauralt 👋
+# Welcome in my github page, I'm Sauralt 👋
 
 ## Computer science student currently focused on software development and web application.
 
