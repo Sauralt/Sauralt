@@ -37,8 +37,8 @@
 ## 📌 Projects
 ### Web
 
-- **[Obelisk](https://github.com/xHemera/obelisk)** — A full-stack web-based turn-based PvP RPG simulator with a dark fantasy theme. Assemble a team of 3 heroes, queue for battle, and fight other players in real-time tactical combat.
-- **[WebServ](https://github.com/Sauralt/WebServ)** — WebServ is a system programming project from the 42 curriculum that consists of creating a simple HTTP server in C++.
+- **[Obelisk](https://github.com/xHemera/obelisk)** — A full-stack web-based turn-based PvP RPG simulator. Assemble a team of 3 heroes, and fight other players in real-time tactical combat.
+- **[WebServ](https://github.com/Sauralt/WebServ)** — WebServ is a system programming project that consists of creating a simple HTTP server in C++.
 
 ### Security
 - **[Darkly](https://github.com/Sauralt/Darkly)** — This project is an introduction to cyber security in the field of the Web Version: 6.0.
