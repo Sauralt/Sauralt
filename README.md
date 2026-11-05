@@ -45,12 +45,3 @@
 ### Data
 
 - **[Python piscines](https://github.com/Sauralt/python-piscine-data-science)**
-
-## 📊 GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sauralt&show_icons=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauralt&layout=compact)
-
----
-
-*Feel free to reach out via the links above.*
