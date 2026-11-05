@@ -1,9 +1,9 @@
-# Welcome in my github page, I'm Sauralt👋
+# Welcome in my github page, I'm Maxime 👋
 
 Computer science student currently focused on software development and understanding web application security mechanisms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](www.linkedin.com/in/maxime-garsault)
+[![Email](maxime.garsault@gmail.com)
 
 ---
 
@@ -20,6 +20,7 @@ Computer science student currently focused on software development and understan
 - Web development (JavaScript / Node.js)
 - Systems programming (C / C++)
 - Application security and understanding common vulnerabilities (OWASP)
+- Data sciences (python)
 
 ## 📌 Projects
 
